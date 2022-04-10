@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body{
+    
+}
+
+.navbar {
+    background-color: #EBEDEF;
+}
+.imglogo {
+    width: 150px;
+    padding-left: 10px;
+}
+.quem-somos {
+    background-color: #EBEDEF;
+}
+.margin{
+    padding-bottom: 30px;
+    padding-top: 10px;
+    border-bottom: 1px solid black;
+}
+.partners {
+    background-color: #EBEDEF; 
+
+}
+.services{
+    background-color: #EBEDEF;
+}
+.rodape {
+    text-align: center;
+    background-color: #EBEDEF; 
+    padding-bottom: 3px;
+    
+    
+}
+a {
+    text-decoration: none;
+}
+
+li { list-style-type: none; 
+}
